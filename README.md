@@ -27,3 +27,6 @@ If you aren't on a 1920x1080 display, use `xdotool getmouselocation --shell` in 
 xdotool mousemove 1631 948 #location of the "Start Fishing" button
 xdotool mousemove 72 988 #location of your chat button
 ```
+
+# Preview
+Watch the script in action here: https://www.youtube.com/watch?v=t_UUviZ7kTQ
