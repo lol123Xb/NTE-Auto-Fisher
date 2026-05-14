@@ -1,3 +1,6 @@
+# Patched/doesn't work anymore
+As of 14/5/26, this method has been patched out now.
+
 # NTE-Auto-Fisher
 An auto fishing script/macro using bash and xdotool. Made for Neverness to Everness and 1920x1080 displays.
 
